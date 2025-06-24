@@ -15,8 +15,8 @@ st.set_page_config(
 st.title("🤖 Bedrock Agent Chat")
 
 # Agent 설정 (코드에서 직접 설정)
-AGENT_ID = "IU5CLVN58I"
-AGENT_ALIAS_ID = "W7BZSIDVO5"
+AGENT_ID = ""
+AGENT_ALIAS_ID = ""
 AWS_REGION = "us-west-2"  # 원하는 리전으로 변경
 
 # Bedrock Agent 클라이언트 초기화
